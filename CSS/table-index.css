@@ -1,0 +1,32 @@
+table {
+	width: 600px;
+	margin: 50px auto;
+	line-height: 35px;
+	border-collapse: collapse;
+}
+td {
+	text-align: left;
+}
+th {
+	color: black;
+	text-align: left;
+}
+.table1{
+	border: 1px solid #ccc;
+}
+.table1 th {
+	color: white;
+    background-color: green;
+}
+.table1 tr {
+	 border-bottom: 1px solid #ddd;
+}
+.table1 tr:nth-child(even) {
+            background-color: #f1f1f1;
+}
+.table2 tr {
+	 border-bottom: 1px solid #ddd;
+}
+.table2 tr:nth-child(even) {
+            background-color: #f1f1f1;
+}
