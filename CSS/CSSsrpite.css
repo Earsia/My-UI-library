@@ -1,0 +1,10 @@
+div {
+	background:url(../images/jirengu.png) no-repeat fixed 0 0;
+    width: 200px;
+    height: 200px;
+}
+div:hover {
+    background:url(../images/jirengu.png) no-repeat fixed 0 -210px;
+    width: 200px;
+    height: 200px;
+}
