@@ -1,0 +1,27 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.ctn:after{
+	content:"";
+	display: block;
+	clear: both;
+}
+.left-aside{
+    float: left;
+    width: 300px;
+    height: 600px;
+    background-color: #248888;
+}
+.right-aside{
+    float: right;
+    width: 200px;
+    height: 500px;
+    background-color: #E7475E;
+}
+.main{
+	height: 700px;
+	background-color: grey;
+	margin-left: 310px;
+	margin-right: 210px;
+ }
